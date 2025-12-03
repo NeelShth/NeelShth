@@ -2,7 +2,7 @@
 
 I'm Neel, a programmer from the UK
 
-I (try to) code whatever ideas can imagine
+I (try to) code whatever ideas I can imagine
 
 My main tech stack is React, Django, PostgreSQL which I have grown to enjoy
 
